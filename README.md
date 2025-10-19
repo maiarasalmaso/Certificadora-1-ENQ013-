@@ -12,16 +12,7 @@ Este repositório contém materiais e exercícios relacionados ao minicurso de P
 - Exemplos de código
 - Materiais de apoio
 
-## Como usar
-
-1. Clone este repositório
-2. Execute os scripts Python conforme necessário
-3. Siga as instruções dos exercícios
-
 ## Requisitos
 
 - Python 3.x
 - Bibliotecas específicas conforme indicado nos exercícios
-
----
-*UTFPR - Universidade Tecnológica Federal do Paraná - Campus Londrina*
